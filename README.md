@@ -1,1 +1,16 @@
-# head-first-design-patterns-java
+# Head First Design Patterns – Practice Repo
+
+This repository contains my notes, real-world examples, and code implementations
+for each design pattern from the book Head First Design Patterns.
+
+## Patterns Covered
+- Strategy
+
+## Structure
+Each pattern folder contains:
+- Problem
+- Solution
+- Explanation
+- Real-world example
+- Code
+- README
